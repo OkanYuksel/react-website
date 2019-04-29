@@ -89,7 +89,6 @@ class UserProfile extends React.Component{
 
 
 
-
 function FriendItem (props) {
 	return(
 		<li>
